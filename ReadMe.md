@@ -1,7 +1,7 @@
 
 # Google Drive Clone
 
-A static clone of the Google Drive website
+A static clone of the Google Drive website built using HTML & CSS
 
 
 ## Run Locally
